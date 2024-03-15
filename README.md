@@ -1,4 +1,4 @@
-# Perform pre-processing using SageMaker Processing 
+# Perform pre-processing using SageMaker Processing Job
 
 ## Menu 🍛
 1. A whole image of SageMaker Processing Job
