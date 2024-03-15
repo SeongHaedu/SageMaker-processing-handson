@@ -11,6 +11,7 @@
 ## Preparation before starting
 1. Launch the notebook instance in the AWS Management Console.
 2. Open JupyterLab and clone this repo.
+3. Open `sagemaker_processing_job.ipynb` file.
 
 
 After studying SageMaker Processing Job, you will probably crave some extra spicy curry rice!!! 
